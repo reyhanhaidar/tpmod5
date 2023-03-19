@@ -1,0 +1,15 @@
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\bin\Debug\net6.0\tpmod5.exe
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\bin\Debug\net6.0\tpmod5.deps.json
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\bin\Debug\net6.0\tpmod5.runtimeconfig.json
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\bin\Debug\net6.0\tpmod5.dll
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\bin\Debug\net6.0\tpmod5.pdb
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.csproj.AssemblyReference.cache
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.AssemblyInfoInputs.cache
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.AssemblyInfo.cs
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.dll
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\refint\tpmod5.dll
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.pdb
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\tpmod5.genruntimeconfig.cache
+C:\Users\Reyhan\source\reposmod4\tpmod5\tpmod5\tpmod5\obj\Debug\net6.0\ref\tpmod5.dll
